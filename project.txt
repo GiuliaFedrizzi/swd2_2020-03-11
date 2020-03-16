@@ -4,4 +4,4 @@ Jane is a Data Scientist and Samit is a mathematician.
 We'll need to determine who is responsible for who is responsible for what in this project.
 We may need to bring a third person into this project with python and R  programming skills.
 
-I am making a mess of this file
+Maybe we should hire Julia too.
